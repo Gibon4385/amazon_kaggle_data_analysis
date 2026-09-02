@@ -1,2 +1,11 @@
 /note.txt
 /question.txt
+/memo
+
+# Retired notebooks. Keep them out of the repository.
+/amazon.ipynb
+/notebook.ipynb
+
+# Local open-slide authoring workspace and generated build.
+/presentation/
+/dist/
