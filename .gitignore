@@ -9,3 +9,8 @@
 # Local open-slide authoring workspace and generated build.
 /presentation/
 /dist/
+
+# macOS system files
+.DS_Store
+*.DS_Store
+
